@@ -20,6 +20,13 @@
 
 [更新日志](https://github.com/OpenFlutter/flutter_screenutil/blob/master/CHANGELOG.md)
 
+<p align="center">
+<a href="https://afdian.com/a/zy124"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="zy0124"></a>
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/zhuoyuanL" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+</p>
+
 ## 使用方法:
 
 ### 安装依赖：
